@@ -1,0 +1,58 @@
+
+
+@import url(https://use.typekit.net/ehn4ptz.css);
+
+
+
+
+.big1 {background-color: #D4BE94;
+font-family: "aktiv-grotesk", sans-serif;}
+
+div.desc {
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: "aktiv-grotesk", sans-serif;
+  font-weight: semi-bold;
+  font-size: 14px;
+
+}
+
+a{
+  font-family: "aktiv-grotesk", sans-serif;
+
+}
+
+#red {background-color: #b62827;}
+#green {background-color: #506248;}
+#beige {background-color: #596750}
+#persimmon {background-color: #E04B26;}
+#blue {background-color: #8CCCD3;}
+#beigelight {background-color: #E3D6BD;} 
+ 
+.bg-custom-class {
+  background-color: red;
+}
+
+#h1 {
+font-family: "aktiv-grotesk", sans-serif; 
+font-weight: 600;
+font-style: normal;
+
+}
+
+
+https://use.typekit.net/ehn4ptz.css
+
+h4 {
+  font-family: "aktiv-grotesk", sans-serif; 
+
+}
+
+h5 {
+  font-family: "aktiv-grotesk", sans-serif; 
+
+}
+
+
+
