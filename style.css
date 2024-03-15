@@ -5,21 +5,21 @@
 
 
 
-.big1 {background-color: #D4BE94;
-font-family: "aktiv-grotesk", sans-serif;}
+.big1 {background-color: #D4BE94;}
 
 div.desc {
+  font-family: "aktiv-grotesk", sans-serif;
   padding: 10px;
   text-align: center;
   margin-bottom: 30px;
-  font-family: "aktiv-grotesk", sans-serif;
   font-weight: semi-bold;
   font-size: 14px;
 
 }
 
-a{
+a {
   font-family: "aktiv-grotesk", sans-serif;
+
 
 }
 
@@ -28,7 +28,13 @@ a{
 #beige {background-color: #596750}
 #persimmon {background-color: #E04B26;}
 #blue {background-color: #8CCCD3;}
-#beigelight {background-color: #E3D6BD;} 
+
+#beigelight {background-color: #E3D6BD;
+  font-family: "aktiv-grotesk"; 
+  font-weight: 600;
+  font-size: 13px;
+  
+ } 
  
 .bg-custom-class {
   background-color: red;
@@ -42,17 +48,16 @@ font-style: normal;
 }
 
 
-https://use.typekit.net/ehn4ptz.css
 
-h4 {
-  font-family: "aktiv-grotesk", sans-serif; 
-
-}
-
-h5 {
-  font-family: "aktiv-grotesk", sans-serif; 
+#h5 {
+  font-family: "aktiv-grotesk", sans-serif;
+  font-weight: 600;
+  font-size: small;
 
 }
+
+
+
 
 
 
