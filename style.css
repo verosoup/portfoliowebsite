@@ -24,9 +24,17 @@ a {
 }
 
 #red {background-color: #b62827;}
-#green {background-color: #506248;}
+
+#green {background-color: #506248;
+  font-family: "aktiv-grotesk"; 
+  font-weight: 600;
+  font-size: 13px;}
+
 #beige {background-color: #596750}
-#persimmon {background-color: #E04B26;}
+
+#persimmon {background-color: #E04B26;
+  font-weight: 600;
+  font-size: 13px;}
 
 #blue {background-color: #8CCCD3;
   font-family: "aktiv-grotesk"; 
