@@ -27,7 +27,13 @@ a {
 #green {background-color: #506248;}
 #beige {background-color: #596750}
 #persimmon {background-color: #E04B26;}
-#blue {background-color: #8CCCD3;}
+
+#blue {background-color: #8CCCD3;
+  font-family: "aktiv-grotesk"; 
+  font-weight: 600;
+  font-size: 13px;
+  
+}
 
 #beigelight {background-color: #E3D6BD;
   font-family: "aktiv-grotesk"; 
